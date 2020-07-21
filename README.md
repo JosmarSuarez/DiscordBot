@@ -8,6 +8,7 @@ Para correr los programas se necesitan las librerias de:
 - Discord-py (pip install -U discord.py)
 - Jupyter (pip install jupyter)
 - Matplotlib (pip install matplotlib)
+- DotEnv (pip install -U python-dotenv)
 
 En caso de usar Anaconda se puede crear un entorno de manera mas sencilla corriendo el siguiente comando:
 ```
